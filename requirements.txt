@@ -7,6 +7,6 @@ matplotlib
 seaborn
 scipy
 statsmodels
-scikit-learn==0.24.2
+scikit-learn
 pandasql
 groq
