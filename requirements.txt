@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn==0.24.2
+lazypredict==0.2.9
